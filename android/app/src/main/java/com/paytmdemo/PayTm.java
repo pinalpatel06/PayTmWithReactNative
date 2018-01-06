@@ -47,7 +47,7 @@ public class PayTm extends ReactContextBaseJavaModule {
 
 
         Map<String, String> paramMap = new HashMap<>();
-        paramMap.put("MID" , "KNOXPO87404572205046");
+        paramMap.put("MID" , "XXXXXXXXX");
         paramMap.put("ORDER_ID" , orderId);
         paramMap.put("CUST_ID" , "CUST00001");
         paramMap.put("INDUSTRY_TYPE_ID" , "Retail");
